@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800726633775",
+    "project_id": "softrate-task",
+    "storage_bucket": "softrate-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800726633775:android:2fc69f66c727311a18a5da",
+        "android_client_info": {
+          "package_name": "com.example.task_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800726633775-3l2qoucst5k7inovogol1ghjrmcc322o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQwt67Z1yfOQvWs5M13wIqV6zJEDCbqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800726633775-3l2qoucst5k7inovogol1ghjrmcc322o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
